@@ -8,3 +8,16 @@
     transform: translate(-50%, -50%);
     background-color: red;
 }
+    .hi p {
+        display: inline-block;
+        width: 100%;
+        text-align: center;
+        font-size: 120px;
+        line-height: 130px;
+        color: #fff8;
+    }
+    .hi p:hover {
+        background-color: seagreen;
+        padding: 10px;
+        border-radius: 5px;
+    }
